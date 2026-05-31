@@ -1,0 +1,8 @@
+{
+  "chainId": 5042002,
+  "rpc": "https://rpc.testnet.arc.network",
+  "contract": "ArcHaip66101CellProofHub",
+  "address": "0x3Fb77691B96874e28F971DEe9B2F9CEc2A1023C6",
+  "txHash": "0x7ff8cc77e5b38f914a593333011fd2c863fdb3db248af068ad1a536b7b681a6d",
+  "deployer": "0xF226712E3Bb91156E985eb995E1ae524Ca8896EC"
+}
